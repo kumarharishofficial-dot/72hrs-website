@@ -17,7 +17,6 @@ import Terms from './components/Terms';
 import Privacy from './components/Privacy';
 import Refund from './components/Refund';
 import Disclaimer from './components/Disclaimer';
-import Chatbot from './components/Chatbot';
 import { useLanguage } from './hooks/useLanguage';
 import { useRouter } from './hooks/useRouter';
 
@@ -98,7 +97,6 @@ const App: React.FC = () => {
         {modalState === 'form' && <OrderForm onSuccess={handleSubmissionSuccess} />}
         {modalState === 'success' && <SuccessMessage onClose={handleCloseOrderModal} />}
       </Modal>
-      <Chatbot />
     </div>
   );
 };
