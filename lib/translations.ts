@@ -103,7 +103,7 @@ export const translations: Record<string, any> = {
     contact: {
         title: 'Have a Project in Mind?',
         subtitle: "We're here to help you turn your idea into a reality. Reach out to us with any questions or to get started on your project.",
-        cta: 'Email Us: hello@72hrs.live',
+        cta: 'Email Us: live.72hrs@gmail.com',
     },
     cta: {
         title: 'Ready to Launch Your Vision?',
@@ -222,6 +222,13 @@ export const translations: Record<string, any> = {
         confirm3: 'I have read and agree to the Terms & Conditions and Refund Policy.',
         signature: 'Signature / Full Name',
       }
+    },
+    chatbot: {
+      title: 'AI Assistant',
+      welcomeMessage: 'Hello! How can I help you learn about our 72-hour website service today?',
+      inputPlaceholder: 'Ask a question...',
+      systemInstruction: "You are a friendly and helpful sales assistant for 72hrs.live, a service that builds AI-powered websites for clients in 72 hours. Your goal is to answer user questions about the service, highlight its benefits (speed, affordability, AI design, SEO, etc.), and gently guide them towards making a purchase. If they seem interested in getting a website, encourage them to click the 'Get Started' or 'Order Now' button to fill out the detailed order form. Keep your answers concise, helpful, and encouraging.",
+      errorMessage: "Sorry, I'm having trouble connecting right now. Please try again in a moment."
     }
   },
   hi: {
@@ -317,7 +324,7 @@ export const translations: Record<string, any> = {
     contact: {
         title: 'मन में कोई प्रोजेक्ट है?',
         subtitle: "हम आपके विचार को वास्तविकता में बदलने में आपकी मदद करने के लिए यहां हैं। किसी भी प्रश्न के साथ हमसे संपर्क करें या अपनी परियोजना शुरू करें।",
-        cta: 'हमें ईमेल करें: hello@72hrs.live'
+        cta: 'हमें ईमेल करें: live.72hrs@gmail.com'
     },
     cta: {
         title: 'अपने दृष्टिकोण को लॉन्च करने के लिए तैयार हैं?',
@@ -422,6 +429,13 @@ export const translations: Record<string, any> = {
         confirm3: 'मैंने नियम और शर्तों और धनवापसी नीति को पढ़ और स्वीकार कर लिया है।',
         signature: 'हस्ताक्षर / पूरा नाम',
       }
+    },
+    chatbot: {
+      title: 'AI सहायक',
+      welcomeMessage: 'नमस्ते! आज हमारी 72-घंटे की वेबसाइट सेवा के बारे में जानने में मैं आपकी कैसे मदद कर सकता हूँ?',
+      inputPlaceholder: 'एक सवाल पूछें...',
+      systemInstruction: "आप 72hrs.live के लिए एक मैत्रीपूर्ण और सहायक बिक्री सहायक हैं, जो 72 घंटों में ग्राहकों के लिए AI-संचालित वेबसाइट बनाती है। आपका लक्ष्य सेवा के बारे में उपयोगकर्ता के सवालों का जवाब देना, इसके लाभों (गति, सामर्थ्य, AI डिज़ाइन, SEO, आदि) को उजागर करना, और धीरे-धीरे उन्हें खरीदारी करने के लिए मार्गदर्शन करना है। यदि वे एक वेबसाइट प्राप्त करने में रुचि रखते हैं, तो उन्हें विस्तृत ऑर्डर फ़ॉर्म भरने के लिए 'Get Started' या 'Order Now' बटन पर क्लिक करने के लिए प्रोत्साहित करें। अपने उत्तरों को संक्षिप्त, सहायक और उत्साहजनक रखें।",
+      errorMessage: "क्षमा करें, मुझे अभी कनेक्ट होने में समस्या हो रही है। कृपया कुछ क्षण बाद पुनः प्रयास करें।"
     }
   },
   mr: {
@@ -517,7 +531,7 @@ export const translations: Record<string, any> = {
      contact: {
         title: 'मनात एक प्रकल्प आहे?',
         subtitle: "तुमची कल्पना प्रत्यक्षात आणण्यात मदत करण्यासाठी आम्ही येथे आहोत. कोणत्याही प्रश्नांसाठी आमच्याशी संपर्क साधा किंवा तुमच्या प्रकल्पावर सुरुवात करा.",
-        cta: 'आम्हाला ईमेल करा: hello@72hrs.live'
+        cta: 'आम्हाला ईमेल करा: live.72hrs@gmail.com'
     },
     cta: {
         title: 'तुमची दृष्टी लाँच करण्यास तयार आहात?',
@@ -622,6 +636,13 @@ export const translations: Record<string, any> = {
         confirm3: 'मी अटी आणि नियम आणि परतावा धोरण वाचले आहे आणि सहमत आहे.',
         signature: 'सही / पूर्ण नाव',
       }
+    },
+    chatbot: {
+      title: 'AI सहाय्यक',
+      welcomeMessage: 'नमस्कार! आज आमच्या 72-तासांच्या वेबसाइट सेवेबद्दल जाणून घेण्यासाठी मी तुम्हाला कशी मदत करू शकेन?',
+      inputPlaceholder: 'एक प्रश्न विचारा...',
+      systemInstruction: "तुम्ही 72hrs.live साठी एक मैत्रीपूर्ण आणि उपयुक्त विक्री सहाय्यक आहात, जी 72 तासांत ग्राहकांसाठी AI-शक्तीवर चालणाऱ्या वेबसाइट्स बनवते. तुमचे ध्येय सेवेबद्दल वापरकर्त्याच्या प्रश्नांची उत्तरे देणे, तिचे फायदे (वेग, परवडणारी किंमत, AI डिझाइन, SEO, इत्यादी) हायलाइट करणे आणि त्यांना खरेदी करण्यासाठी हळूवारपणे मार्गदर्शन करणे आहे. जर त्यांना वेबसाइट मिळविण्यात रस असेल, तर तपशीलवार ऑर्डर फॉर्म भरण्यासाठी 'Get Started' किंवा 'Order Now' बटणावर क्लिक करण्यास प्रोत्साहित करा. तुमची उत्तरे संक्षिप्त, उपयुक्त आणि उत्साहवर्धक ठेवा.",
+      errorMessage: "क्षमस्व, मला सध्या कनेक्ट करण्यात समस्या येत आहे. कृपया थोड्या वेळाने पुन्हा प्रयत्न करा."
     }
   },
   gu: {
@@ -717,7 +738,7 @@ export const translations: Record<string, any> = {
     contact: {
         title: 'મનમાં કોઈ પ્રોજેક્ટ છે?',
         subtitle: "અમે તમારા વિચારને વાસ્તવિકતામાં ફેરવવામાં તમારી મદદ કરવા માટે અહીં છીએ. કોઈપણ પ્રશ્નો સાથે અમારો સંપર્ક કરો અથવા તમારા પ્રોજેક્ટ પર શરૂઆત કરો.",
-        cta: 'અમને ઇમેઇલ કરો: hello@72hrs.live'
+        cta: 'અમને ઇમેઇલ કરો: live.72hrs@gmail.com'
     },
     cta: {
         title: 'તમારા વિઝનને લોન્ચ કરવા માટે તૈયાર છો?',
@@ -822,6 +843,13 @@ export const translations: Record<string, any> = {
         confirm3: 'મેં નિયમો અને શરતો અને રિફંડ નીતિ વાંચી છે અને સંમત છું.',
         signature: 'સહી / પૂરું નામ',
       }
+    },
+    chatbot: {
+      title: 'AI સહાયક',
+      welcomeMessage: 'નમસ્તે! આજે અમારી 72-કલાકની વેબસાઇટ સેવા વિશે જાણવા માટે હું તમને કેવી રીતે મદદ કરી શકું?',
+      inputPlaceholder: 'એક પ્રશ્ન પૂછો...',
+      systemInstruction: "તમે 72hrs.live માટે એક મૈત્રીપૂર્ણ અને મદદરૂપ વેચાણ સહાયક છો, જે 72 કલાકમાં ગ્રાહકો માટે AI-સંચાલિત વેબસાઇટ્સ બનાવે છે. તમારો ધ્યેય સેવા વિશે વપરાશકર્તાના પ્રશ્નોના જવાબ આપવાનો, તેના ફાયદા (ઝડપ, પરવડે તેવું, AI ડિઝાઇન, SEO, વગેરે) ને પ્રકાશિત કરવાનો અને તેમને ખરીદી કરવા માટે નરમાશથી માર્ગદર્શન આપવાનો છે. જો તેઓ વેબસાઇટ મેળવવામાં રસ ધરાવતા હોય, તો વિગતવાર ઓર્ડર ફોર્મ ભરવા માટે 'Get Started' અથવા 'Order Now' બટન પર ક્લિક કરવા માટે પ્રોત્સાહિત કરો. તમારા જવાબો સંક્ષિપ્ત, મદદરૂપ અને પ્રોત્સાહક રાખો.",
+      errorMessage: "માફ કરશો, મને અત્યારે કનેક્ટ કરવામાં મુશ્કેલી આવી રહી છે. કૃપા કરીને થોડીવારમાં ફરી પ્રયાસ કરો."
     }
   },
   te: {
@@ -917,7 +945,7 @@ export const translations: Record<string, any> = {
     contact: {
         title: 'మనసులో ఒక ప్రాజెక్ట్ ఉందా?',
         subtitle: "మీ ఆలోచనను వాస్తవికతగా మార్చడంలో మీకు సహాయపడటానికి మేము ఇక్కడ ఉన్నాము. ఏవైనా ప్రశ్నలతో మమ్మల్ని సంప్రదించండి లేదా మీ ప్రాజెక్ట్‌ను ప్రారంభించండి.",
-        cta: 'మాకు ఇమెయిల్ చేయండి: hello@72hrs.live'
+        cta: 'మాకు ఇమెయిల్ చేయండి: live.72hrs@gmail.com'
     },
     cta: {
         title: 'మీ విజన్‌ను ప్రారంభించడానికి సిద్ధంగా ఉన్నారా?',
@@ -997,7 +1025,7 @@ export const translations: Record<string, any> = {
         keywords: 'ఫోకస్ కీలకపదాలు',
         keywordsPlaceholder: 'ఉదా., స్థానిక కేఫ్, ఉత్తమ కాఫీ, ముంబై కేఫ్, రోహన్ గుప్తా',
         imageAltText: 'చిత్ర వివరణలు (Alt టెక్స్ట్)',
-        imageAltTextPlaceholder: 'దృష్టి లోపం ఉన్న వినియోగదారులు మరియు శోధన ఇంజిన్‌ల కోసం మీ ముఖ్య చిత్రాలను వివరించండి. ఉదా., "సూర్యరశ్మి ఉన్న కేఫ్‌లో లాट्टे ఆర్ట్‌ను పోస్తున్న నవ్వుతున్న బరిస్టా." లేదా "తెల్ల ప్లేట్‌పై మా సిగ్నేチャー చాక్లెట్ కేక్."',
+        imageAltTextPlaceholder: 'దృష్టి లోపం ఉన్న వినియోగదారులు మరియు శోధన ఇంజిన్‌ల కోసం మీ ముఖ్య చిత్రాలను వివరించండి. ఉదా., "సూర్యరశ్మి ఉన్న కేఫ్‌లో లాट्टे ఆర్ట్‌ను పోస్తున్న నవ్వుతున్న బరిస్టా." లేదా "తెల్ల ప్లేట్‌పై మా సిగ్नेచర్ చాక్లెట్ కేక్."',
       },
       section7: {
         title: '7. విధానం & చట్టపరమైన వివరాలు',
@@ -1022,6 +1050,13 @@ export const translations: Record<string, any> = {
         confirm3: 'నేను నిబంధనలు & షరతులు మరియు వాపసు విధానాన్ని చదివి, అంగీకరించాను.',
         signature: 'సంతకం / పూర్తి పేరు',
       }
+    },
+    chatbot: {
+      title: 'AI సహాయకుడు',
+      welcomeMessage: 'నమస్కారం! ఈ రోజు మా 72-గంటల వెబ్‌సైట్ సేవ గురించి తెలుసుకోవడానికి నేను మీకు ఎలా సహాయపడగలను?',
+      inputPlaceholder: 'ఒక ప్రశ్న అడగండి...',
+      systemInstruction: "మీరు 72hrs.live కోసం స్నేహపూర్వక మరియు సహాయక అమ్మకాల సహాయకుడు, ఇది 72 గంటల్లో క్లయింట్‌ల కోసం AI- శక్తితో పనిచేసే వెబ్‌సైట్‌లను నిర్మిస్తుంది. మీ లక్ష్యం సేవ గురించి వినియోగదారు ప్రశ్నలకు సమాధానం ఇవ్వడం, దాని ప్రయోజనాలను (వేగం, సరసమైన ధర, AI డిజైన్, SEO, మొదలైనవి) హైలైట్ చేయడం మరియు కొనుగోలు చేయడానికి వారిని సున్నితంగా మార్గనిర్దేశం చేయడం. వారు వెబ్‌సైట్‌ను పొందడంలో ఆసక్తిగా ఉన్నట్లయితే, వివరణాత్మక ఆర్డర్ ఫారమ్‌ను పూరించడానికి 'Get Started' లేదా 'Order Now' బటన్‌ను క్లిక్ చేయమని వారిని ప్రోత్సహించండి. మీ సమాధానాలను సంక్షిప్తంగా, సహాయకరంగా మరియు ప్రోత్సాహకరంగా ఉంచండి.",
+      errorMessage: "క్షమించండి, ప్రస్తుతం కనెక్ట్ చేయడంలో నాకు సమస్య ఉంది. దయచేసి కొద్దిసేపటి తర్వాత మళ్లీ ప్రయత్నించండి."
     }
   }
 };

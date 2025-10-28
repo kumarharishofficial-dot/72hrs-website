@@ -13,7 +13,7 @@ const Contact: React.FC = () => {
           </p>
           <div className="mt-8">
             <a 
-              href="mailto:hello@72hrs.live" 
+              href="mailto:live.72hrs@gmail.com" 
               className="inline-block px-8 py-3 text-base font-semibold text-primary-violet border-2 border-primary-violet rounded-lg hover:bg-primary-violet hover:text-white transform hover:-translate-y-1 transition-all duration-300"
             >
               {t('contact.cta')}
